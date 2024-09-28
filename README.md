@@ -60,6 +60,18 @@ Apart from development, I also specialize in **graphic design**, creating brochu
 
 ---
 
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish-tiwari123&theme=tokyonight" alt="Nimish's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimish-tiwari123&show_icons=true&theme=tokyonight" alt="Nimish's GitHub Stats" />
+</p>
+
+---
+
 ## 📫 Let's Connect!
 
 | 📧 **Email**             | 🌐 **Portfolio**                          | 💼 **LinkedIn**                                 | 🐱 **GitHub**                                  |
@@ -69,4 +81,3 @@ Apart from development, I also specialize in **graphic design**, creating brochu
 ---
 
 ## 🌟 "Passionate about creating engaging, functional, and visually appealing digital experiences."
-
