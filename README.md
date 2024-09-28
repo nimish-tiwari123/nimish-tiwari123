@@ -1,65 +1,72 @@
 # Hi, I'm Nimish Tiwari! 👋
 
-🎓 I’m currently pursuing a **Bachelor of Computer Applications (BCA)** from **Vikram University, Ujjain** with a passion for **Frontend Development**, **UI/UX Design**, and **Graphic Design**.
-
-💻 I specialize in building dynamic, responsive web applications using modern frameworks like **React.js**, **Next.js**, and **Angular**. I am also skilled in **graphic design**, creating visually appealing posts, brochures, and banners using **Adobe Illustrator**, **Photoshop**, and **Canva**.
+🎓 I’m currently pursuing a **Bachelor of Computer Applications (BCA)** from **Vikram University, Ujjain**. My passion lies in **Frontend Development**, **UI/UX Design**, and **Graphic Design**. I love transforming ideas into visually engaging, user-friendly digital products.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack & Skills
 
-- **Programming Languages:** JavaScript, TypeScript
-- **Frontend Development:** React.js, Next.js, Angular, HTML, CSS, Bootstrap
-- **UI/UX Design:** Figma
-- **Graphic Design:** Adobe Illustrator, Photoshop, Canva
-- **Version Control:** Git & GitHub
-- **Soft Skills:** Teamwork, Discipline
+| 💻 **Frontend Development**  | 🎨 **UI/UX Design**      | 🖍️ **Graphic Design** |
+|-----------------------------|-------------------------|-----------------------|
+| React.js, Next.js, Angular   | Figma                   | Adobe Illustrator     |
+| HTML, CSS, JavaScript, TypeScript | Wireframing & Prototyping | Adobe Photoshop       |
+| Bootstrap                    | User-Centered Design    | Canva                 |
+| Git & GitHub                 | Responsive Interfaces   | Social Media Design   |
 
 ---
 
 ## 🚀 Projects
 
-### 1. [AWNS Website](#)  
+### 1. **AWNS Website**  
 *Tech Stack: Next.js, JavaScript, Bootstrap*  
-- Developed a static website to showcase services, projects, and solutions for clients.
-- Implemented server-side rendering for improved SEO and fast load times.
-- Designed a responsive layout for seamless navigation on all devices.
+🛠️ **Description:**  
+Developed a responsive static website showcasing services and projects. Implemented server-side rendering for fast load times and improved SEO.  
 
-### 2. [Sangeeta Marbles ERP Module](#)  
-*Tech Stack: React, JavaScript, Bootstrap*  
-- Created an ERP system to manage inventory, sales, and customer data.
-- Designed a user-friendly interface for easy tracking and management of product details and orders.
-- Integrated real-time data insights to enhance business decision-making.
-
-### 3. [Balaji Hardware Website](#)  
-*Tech Stack: React, JavaScript, Bootstrap*  
-- Built a static website to showcase products and services for a hardware business.
-- Developed an admin panel for profile and product management.
-- Ensured responsive design for smooth user experience across all devices.
-
-### 4. [Marble Galaxy](#)  
-*Tech Stack: React, TypeScript, Bootstrap*  
-- Created a product showcase website using React and TypeScript for enhanced code safety.
-- Designed a mobile-friendly, intuitive interface for browsing marble products.
-- Implemented dynamic product listings and descriptions.
+🔗 **Link:** [View Project](#)
 
 ---
 
-## 🎨 Design Portfolio
+### 2. **Sangeeta Marbles ERP Module**  
+*Tech Stack: React, JavaScript, Bootstrap*  
+🛠️ **Description:**  
+Built an ERP system to streamline inventory and sales management. Designed a responsive interface with real-time data insights for enhanced operational efficiency.  
 
-I also work on **graphic design projects** including social media posts, brochures, and banners. Check out my portfolio for a full showcase of my work.
+🔗 **Link:** [View Project](#)
 
-[Visit My Portfolio](https://nimishtiwari.netlify.app/)
+---
+
+### 3. **Balaji Hardware Website**  
+*Tech Stack: React, JavaScript, Bootstrap*  
+🛠️ **Description:**  
+Developed a static website showcasing hardware products. Integrated an admin panel for seamless product management and ensured responsive design for all devices.  
+
+🔗 **Link:** [View Project](#)
+
+---
+
+### 4. **Marble Galaxy**  
+*Tech Stack: React, TypeScript, Bootstrap*  
+🛠️ **Description:**  
+Designed a mobile-friendly product showcase website for Marble Galaxy. Used TypeScript for enhanced code reliability and implemented dynamic product listings.  
+
+🔗 **Link:** [View Project](#)
+
+---
+
+## 🎨 Graphic Design Portfolio
+
+Apart from development, I also specialize in **graphic design**, creating brochures, banners, and social media posts.  
+🎯 Check out my **[Design Portfolio](https://nimishtiwari.netlify.app/)** to see more of my creative work!
 
 ---
 
 ## 📫 Let's Connect!
 
-- **Email:** nimish.tiwari0704@gmail.com
-- **GitHub:** [nimish-tiwari123](https://github.com/nimish-tiwari123)
-- **LinkedIn:** [NimishTiwari](https://www.linkedin.com/in/nimish-tiwari-542146274)
-- **Portfolio:** [nimishtiwari.netlify.app](https://nimishtiwari.netlify.app/)
+| 📧 **Email**             | 🌐 **Portfolio**                          | 💼 **LinkedIn**                                 | 🐱 **GitHub**                                  |
+|--------------------------|------------------------------------------|-------------------------------------------------|------------------------------------------------|
+| [nimish.tiwari0704@gmail.com](mailto:nimish.tiwari0704@gmail.com) | [nimishtiwari.netlify.app](https://nimishtiwari.netlify.app/) | [NimishTiwari](https://www.linkedin.com/in/nimish-tiwari-542146274/) | [nimish-tiwari123](https://github.com/nimish-tiwari123) |
 
 ---
 
-### 🌟 "I’m passionate about creating engaging web applications and designs that leave a lasting impact."
+## 🌟 "Passionate about creating engaging, functional, and visually appealing digital experiences."
+
