@@ -22,7 +22,7 @@
 🛠️ **Description:**  
 Developed a responsive static website showcasing services and projects. Implemented server-side rendering for fast load times and improved SEO.  
 
-🔗 **Link:** [View Project](#)
+🔗 **Link:** https://www.awns.in
 
 ---
 
@@ -31,7 +31,6 @@ Developed a responsive static website showcasing services and projects. Implemen
 🛠️ **Description:**  
 Built an ERP system to streamline inventory and sales management. Designed a responsive interface with real-time data insights for enhanced operational efficiency.  
 
-🔗 **Link:** [View Project](#)
 
 ---
 
@@ -40,7 +39,7 @@ Built an ERP system to streamline inventory and sales management. Designed a res
 🛠️ **Description:**  
 Developed a static website showcasing hardware products. Integrated an admin panel for seamless product management and ensured responsive design for all devices.  
 
-🔗 **Link:** [View Project](#)
+🔗 **Link:** https://www.balajihardwarektg.com
 
 ---
 
@@ -49,7 +48,6 @@ Developed a static website showcasing hardware products. Integrated an admin pan
 🛠️ **Description:**  
 Designed a mobile-friendly product showcase website for Marble Galaxy. Used TypeScript for enhanced code reliability and implemented dynamic product listings.  
 
-🔗 **Link:** [View Project](#)
 
 ---
 
